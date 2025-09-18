@@ -1,0 +1,501 @@
+berat,kadar_gula,warna,tekstur,tingkat_kematangan,jenis
+14,75,kecoklatan,kasar,setengah matang,medjool
+14,77,kecoklatan,kasar,setengah matang,ajwa
+12,60,kehitaman,halus,terlalu matang,ajwa
+17,82,kecoklatan,kasar,terlalu matang,medjool
+9,73,kehitaman,agak kasar,matang,ajwa
+10,72,kecoklatan,agak kasar,setengah matang,sukkari
+14,78,kecoklatan,halus,terlalu matang,sukkari
+11,62,kehitaman,agak kasar,terlalu matang,ajwa
+14,76,kecoklatan,halus,setengah matang,sukkari
+10,77,kecoklatan,halus,matang,sukkari
+20,86,kecoklatan,agak kasar,matang,medjool
+16,77,kecoklatan,agak kasar,terlalu matang,medjool
+11,72,kehitaman,agak kasar,terlalu matang,ajwa
+10,61,kehitaman,halus,setengah matang,ajwa
+12,72,kecoklatan,halus,terlalu matang,sukkari
+11,85,kecoklatan,agak kasar,terlalu matang,sukkari
+11,77,kecoklatan,agak kasar,terlalu matang,sukkari
+17,86,kecoklatan,agak kasar,setengah matang,medjool
+8,63,kehitaman,halus,terlalu matang,ajwa
+17,77,kecoklatan,kasar,matang,medjool
+14,78,kecoklatan,halus,terlalu matang,sukkari
+18,83,kecoklatan,kasar,setengah matang,medjool
+11,60,kehitaman,agak kasar,terlalu matang,ajwa
+14,84,kecoklatan,agak kasar,setengah matang,medjool
+12,60,kehitaman,agak kasar,matang,sukkari
+11,71,kecoklatan,halus,terlalu matang,sukkari
+11,62,kehitaman,halus,setengah matang,ajwa
+15,83,kecoklatan,kasar,setengah matang,medjool
+19,81,kecoklatan,kasar,matang,medjool
+16,89,kecoklatan,kasar,setengah matang,medjool
+10,60,kehitaman,halus,terlalu matang,ajwa
+8,67,kehitaman,halus,setengah matang,ajwa
+12,67,kehitaman,agak kasar,terlalu matang,ajwa
+15,90,kecoklatan,agak kasar,matang,medjool
+8,63,kehitaman,agak kasar,matang,ajwa
+16,71,kecoklatan,halus,setengah matang,sukkari
+16,73,kecoklatan,halus,setengah matang,sukkari
+11,83,kecoklatan,halus,matang,sukkari
+11,63,kehitaman,halus,terlalu matang,ajwa
+8,67,kehitaman,halus,matang,ajwa
+11,61,kehitaman,halus,matang,sukkari
+16,84,kecoklatan,agak kasar,matang,sukkari
+20,90,kecoklatan,agak kasar,setengah matang,medjool
+12,61,kehitaman,agak kasar,setengah matang,ajwa
+14,75,kecoklatan,halus,terlalu matang,sukkari
+8,62,kehitaman,halus,matang,ajwa
+15,76,kecoklatan,agak kasar,matang,medjool
+18,85,kecoklatan,kasar,setengah matang,medjool
+11,78,kecoklatan,agak kasar,setengah matang,sukkari
+13,80,kecoklatan,halus,setengah matang,sukkari
+14,77,kecoklatan,agak kasar,terlalu matang,medjool
+10,77,kecoklatan,agak kasar,matang,sukkari
+19,84,kecoklatan,agak kasar,terlalu matang,medjool
+15,73,kecoklatan,halus,matang,sukkari
+12,64,kehitaman,agak kasar,matang,ajwa
+16,81,kecoklatan,kasar,terlalu matang,medjool
+8,73,kehitaman,agak kasar,setengah matang,ajwa
+16,80,kecoklatan,kasar,terlalu matang,medjool
+14,78,kecoklatan,agak kasar,terlalu matang,medjool
+14,86,kecoklatan,agak kasar,matang,medjool
+12,71,kecoklatan,agak kasar,setengah matang,sukkari
+14,86,kecoklatan,kasar,terlalu matang,medjool
+9,65,kehitaman,agak kasar,setengah matang,ajwa
+16,83,kecoklatan,halus,matang,sukkari
+14,87,kecoklatan,agak kasar,matang,medjool
+12,79,kecoklatan,halus,setengah matang,ajwa
+12,78,kecoklatan,halus,matang,sukkari
+17,85,kecoklatan,agak kasar,setengah matang,medjool
+11,78,kecoklatan,halus,setengah matang,sukkari
+15,80,kecoklatan,agak kasar,terlalu matang,sukkari
+11,66,kehitaman,agak kasar,setengah matang,ajwa
+12,66,kehitaman,agak kasar,matang,ajwa
+16,85,kecoklatan,agak kasar,terlalu matang,medjool
+16,88,kecoklatan,kasar,matang,medjool
+15,81,kecoklatan,kasar,terlalu matang,medjool
+19,80,kecoklatan,kasar,matang,medjool
+10,69,kehitaman,halus,matang,ajwa
+19,85,kecoklatan,kasar,matang,medjool
+12,75,kehitaman,halus,terlalu matang,ajwa
+19,85,kecoklatan,agak kasar,setengah matang,medjool
+9,64,kehitaman,halus,setengah matang,ajwa
+14,72,kecoklatan,agak kasar,matang,sukkari
+15,87,kecoklatan,kasar,matang,medjool
+19,75,kecoklatan,agak kasar,matang,medjool
+18,89,kecoklatan,agak kasar,terlalu matang,medjool
+11,64,kehitaman,agak kasar,terlalu matang,ajwa
+18,85,kecoklatan,kasar,terlalu matang,medjool
+17,89,kecoklatan,agak kasar,terlalu matang,medjool
+12,77,kecoklatan,agak kasar,terlalu matang,sukkari
+10,74,kehitaman,halus,terlalu matang,ajwa
+12,80,kecoklatan,halus,setengah matang,sukkari
+15,74,kecoklatan,halus,setengah matang,sukkari
+14,84,kecoklatan,agak kasar,setengah matang,sukkari
+13,70,kecoklatan,agak kasar,matang,sukkari
+16,82,kecoklatan,agak kasar,terlalu matang,sukkari
+20,82,kecoklatan,kasar,setengah matang,medjool
+10,82,kecoklatan,agak kasar,terlalu matang,sukkari
+15,75,kecoklatan,agak kasar,setengah matang,sukkari
+14,87,kecoklatan,agak kasar,setengah matang,medjool
+11,65,kehitaman,halus,matang,ajwa
+11,70,kehitaman,agak kasar,matang,ajwa
+12,72,kecoklatan,agak kasar,setengah matang,sukkari
+10,67,kehitaman,halus,terlalu matang,ajwa
+9,60,kehitaman,halus,setengah matang,ajwa
+14,81,kecoklatan,kasar,terlalu matang,medjool
+11,73,kecoklatan,halus,matang,sukkari
+10,72,kehitaman,agak kasar,terlalu matang,ajwa
+19,82,kecoklatan,agak kasar,terlalu matang,medjool
+18,78,kecoklatan,agak kasar,matang,medjool
+16,77,kecoklatan,kasar,setengah matang,medjool
+10,83,kecoklatan,agak kasar,terlalu matang,sukkari
+15,74,kecoklatan,agak kasar,setengah matang,sukkari
+16,90,kecoklatan,kasar,matang,medjool
+16,85,kecoklatan,agak kasar,setengah matang,medjool
+11,84,kecoklatan,agak kasar,matang,sukkari
+11,66,kehitaman,agak kasar,matang,ajwa
+19,83,kecoklatan,agak kasar,terlalu matang,medjool
+9,73,kehitaman,agak kasar,terlalu matang,ajwa
+17,90,kecoklatan,kasar,setengah matang,medjool
+11,67,kehitaman,agak kasar,terlalu matang,ajwa
+14,81,kecoklatan,agak kasar,terlalu matang,sukkari
+15,84,kecoklatan,agak kasar,matang,sukkari
+9,70,kehitaman,halus,terlalu matang,ajwa
+15,81,kecoklatan,agak kasar,terlalu matang,medjool
+18,84,kecoklatan,agak kasar,setengah matang,medjool
+11,79,kecoklatan,halus,terlalu matang,sukkari
+10,71,kecoklatan,agak kasar,terlalu matang,sukkari
+20,90,kecoklatan,agak kasar,setengah matang,medjool
+13,84,kecoklatan,agak kasar,setengah matang,sukkari
+16,85,kecoklatan,halus,setengah matang,sukkari
+12,61,kehitaman,halus,setengah matang,ajwa
+10,77,kecoklatan,halus,terlalu matang,sukkari
+18,82,kecoklatan,kasar,matang,medjool
+16,83,kecoklatan,agak kasar,terlalu matang,sukkari
+19,78,kecoklatan,agak kasar,terlalu matang,medjool
+14,80,kecoklatan,agak kasar,setengah matang,medjool
+8,73,kehitaman,agak kasar,terlalu matang,ajwa
+10,77,kecoklatan,agak kasar,terlalu matang,sukkari
+10,77,kecoklatan,agak kasar,terlalu matang,sukkari
+11,63,kehitaman,halus,terlalu matang,ajwa
+16,74,kecoklatan,halus,setengah matang,sukkari
+14,79,kecoklatan,agak kasar,setengah matang,sukkari
+15,82,kecoklatan,agak kasar,terlalu matang,sukkari
+10,71,kecoklatan,agak kasar,terlalu matang,sukkari
+10,72,kecoklatan,halus,terlalu matang,sukkari
+18,75,kecoklatan,kasar,terlalu matang,ajwa
+14,84,kecoklatan,agak kasar,setengah matang,sukkari
+15,85,kecoklatan,halus,matang,sukkari
+12,73,kecoklatan,halus,matang,sukkari
+12,82,kecoklatan,halus,matang,sukkari
+12,73,kecoklatan,agak kasar,terlalu matang,sukkari
+12,74,kehitaman,agak kasar,setengah matang,ajwa
+14,85,kecoklatan,agak kasar,setengah matang,sukkari
+15,84,kecoklatan,kasar,terlalu matang,medjool
+12,67,kehitaman,halus,matang,ajwa
+17,77,kecoklatan,agak kasar,setengah matang,medjool
+9,75,kehitaman,agak kasar,terlalu matang,ajwa
+16,85,kecoklatan,agak kasar,setengah matang,sukkari
+11,66,kehitaman,halus,setengah matang,ajwa
+12,78,kecoklatan,halus,matang,sukkari
+18,90,kecoklatan,agak kasar,matang,medjool
+12,82,kecoklatan,agak kasar,matang,sukkari
+15,87,kecoklatan,agak kasar,matang,medjool
+15,82,kecoklatan,agak kasar,terlalu matang,sukkari
+15,90,kecoklatan,agak kasar,setengah matang,medjool
+16,78,kecoklatan,kasar,setengah matang,medjool
+10,74,kecoklatan,agak kasar,terlalu matang,sukkari
+11,68,kehitaman,agak kasar,terlalu matang,ajwa
+14,85,kecoklatan,kasar,matang,medjool
+16,71,kecoklatan,halus,setengah matang,sukkari
+11,72,kecoklatan,agak kasar,setengah matang,sukkari
+20,78,kecoklatan,kasar,setengah matang,medjool
+8,70,kehitaman,halus,matang,ajwa
+11,77,kecoklatan,agak kasar,terlalu matang,sukkari
+9,65,kehitaman,halus,terlalu matang,ajwa
+19,82,kecoklatan,kasar,terlalu matang,medjool
+15,78,kecoklatan,agak kasar,matang,sukkari
+12,75,kecoklatan,halus,matang,sukkari
+16,88,kecoklatan,kasar,matang,medjool
+11,75,kehitaman,halus,setengah matang,ajwa
+14,79,kecoklatan,agak kasar,setengah matang,sukkari
+17,83,kecoklatan,agak kasar,terlalu matang,medjool
+14,90,kecoklatan,kasar,setengah matang,medjool
+11,76,kecoklatan,agak kasar,terlalu matang,sukkari
+19,79,kecoklatan,agak kasar,terlalu matang,medjool
+16,84,kecoklatan,halus,terlalu matang,sukkari
+8,69,kehitaman,agak kasar,terlalu matang,ajwa
+9,71,kehitaman,agak kasar,setengah matang,ajwa
+16,79,kecoklatan,agak kasar,setengah matang,sukkari
+9,67,kehitaman,agak kasar,terlalu matang,ajwa
+10,78,kecoklatan,halus,matang,sukkari
+19,83,kecoklatan,kasar,terlalu matang,medjool
+9,75,kehitaman,halus,terlalu matang,ajwa
+16,82,kecoklatan,agak kasar,terlalu matang,medjool
+16,88,kecoklatan,agak kasar,setengah matang,ajwa
+13,73,kecoklatan,halus,setengah matang,sukkari
+11,74,kehitaman,agak kasar,terlalu matang,ajwa
+18,88,kecoklatan,agak kasar,matang,medjool
+14,83,kecoklatan,agak kasar,setengah matang,sukkari
+11,74,kehitaman,halus,matang,ajwa
+16,86,kecoklatan,agak kasar,matang,medjool
+11,62,kehitaman,halus,terlalu matang,ajwa
+8,70,kehitaman,halus,setengah matang,ajwa
+8,66,kehitaman,halus,setengah matang,ajwa
+12,60,kehitaman,agak kasar,setengah matang,ajwa
+16,80,kecoklatan,agak kasar,terlalu matang,medjool
+8,71,kehitaman,halus,terlalu matang,ajwa
+10,61,kehitaman,halus,terlalu matang,ajwa
+8,75,kehitaman,agak kasar,matang,ajwa
+11,67,kehitaman,halus,terlalu matang,ajwa
+18,84,kecoklatan,kasar,terlalu matang,medjool
+11,72,kehitaman,agak kasar,terlalu matang,ajwa
+17,77,kecoklatan,agak kasar,matang,medjool
+9,68,kehitaman,agak kasar,matang,ajwa
+16,89,kecoklatan,kasar,setengah matang,medjool
+12,66,kehitaman,agak kasar,matang,ajwa
+12,84,kecoklatan,agak kasar,matang,sukkari
+13,80,kecoklatan,agak kasar,matang,sukkari
+17,77,kecoklatan,agak kasar,setengah matang,medjool
+10,64,kehitaman,halus,terlalu matang,ajwa
+16,78,kecoklatan,kasar,matang,medjool
+16,71,kecoklatan,agak kasar,terlalu matang,sukkari
+12,66,kehitaman,halus,terlalu matang,ajwa
+10,71,kehitaman,halus,matang,ajwa
+16,70,kecoklatan,agak kasar,setengah matang,sukkari
+20,84,kecoklatan,kasar,matang,ajwa
+19,87,kecoklatan,agak kasar,setengah matang,medjool
+8,66,kehitaman,agak kasar,matang,ajwa
+10,69,kehitaman,agak kasar,terlalu matang,ajwa
+9,65,kehitaman,halus,terlalu matang,ajwa
+15,83,kecoklatan,agak kasar,terlalu matang,sukkari
+11,73,kecoklatan,agak kasar,matang,sukkari
+19,90,kecoklatan,kasar,setengah matang,medjool
+14,75,kecoklatan,agak kasar,matang,medjool
+10,69,kehitaman,agak kasar,setengah matang,medjool
+11,74,kecoklatan,agak kasar,terlalu matang,sukkari
+18,86,kecoklatan,agak kasar,matang,medjool
+11,60,kehitaman,agak kasar,setengah matang,ajwa
+17,87,kecoklatan,kasar,matang,medjool
+10,65,kehitaman,agak kasar,terlalu matang,ajwa
+11,63,kehitaman,halus,matang,ajwa
+14,87,kecoklatan,kasar,terlalu matang,medjool
+16,75,kecoklatan,halus,terlalu matang,sukkari
+18,81,kecoklatan,kasar,matang,medjool
+20,79,kecoklatan,agak kasar,setengah matang,medjool
+9,64,kehitaman,halus,setengah matang,ajwa
+17,89,kecoklatan,kasar,terlalu matang,medjool
+19,85,kecoklatan,kasar,setengah matang,medjool
+13,79,kecoklatan,agak kasar,terlalu matang,sukkari
+14,84,kecoklatan,kasar,matang,sukkari
+10,72,kecoklatan,agak kasar,matang,sukkari
+14,89,kecoklatan,agak kasar,matang,medjool
+15,76,kecoklatan,kasar,setengah matang,medjool
+15,72,kecoklatan,halus,setengah matang,sukkari
+13,75,kecoklatan,agak kasar,matang,sukkari
+13,80,kecoklatan,halus,terlalu matang,sukkari
+10,63,kehitaman,agak kasar,matang,ajwa
+18,79,kecoklatan,kasar,setengah matang,medjool
+10,69,kehitaman,agak kasar,setengah matang,ajwa
+10,72,kehitaman,agak kasar,setengah matang,ajwa
+19,77,kecoklatan,kasar,terlalu matang,medjool
+12,75,kecoklatan,halus,matang,sukkari
+11,77,kecoklatan,halus,setengah matang,sukkari
+12,61,kehitaman,agak kasar,terlalu matang,ajwa
+11,75,kecoklatan,halus,terlalu matang,sukkari
+11,61,kehitaman,agak kasar,matang,ajwa
+11,69,kehitaman,agak kasar,setengah matang,ajwa
+16,85,kecoklatan,halus,matang,sukkari
+17,89,kecoklatan,kasar,matang,medjool
+11,76,kecoklatan,halus,matang,sukkari
+16,81,kecoklatan,halus,terlalu matang,sukkari
+10,62,kehitaman,halus,matang,ajwa
+15,88,kecoklatan,agak kasar,setengah matang,medjool
+10,83,kecoklatan,halus,matang,sukkari
+11,62,kehitaman,agak kasar,setengah matang,ajwa
+19,85,kecoklatan,agak kasar,setengah matang,sukkari
+20,79,kecoklatan,kasar,matang,medjool
+8,68,kehitaman,halus,setengah matang,ajwa
+18,88,kecoklatan,agak kasar,matang,medjool
+8,67,kehitaman,agak kasar,terlalu matang,ajwa
+10,73,kecoklatan,agak kasar,terlalu matang,sukkari
+18,82,kecoklatan,agak kasar,matang,medjool
+16,82,kecoklatan,kasar,setengah matang,medjool
+12,71,kehitaman,halus,terlalu matang,ajwa
+18,75,kecoklatan,kasar,matang,sukkari
+12,70,kecoklatan,agak kasar,setengah matang,sukkari
+19,78,kecoklatan,kasar,setengah matang,medjool
+16,75,kecoklatan,agak kasar,terlalu matang,sukkari
+9,62,kehitaman,agak kasar,setengah matang,ajwa
+9,61,kehitaman,agak kasar,matang,ajwa
+17,83,kecoklatan,agak kasar,terlalu matang,medjool
+16,71,kecoklatan,agak kasar,matang,sukkari
+13,82,kecoklatan,agak kasar,matang,sukkari
+11,75,kehitaman,agak kasar,terlalu matang,ajwa
+11,62,kehitaman,agak kasar,terlalu matang,ajwa
+12,69,kehitaman,agak kasar,setengah matang,ajwa
+16,84,kecoklatan,kasar,terlalu matang,medjool
+11,71,kehitaman,agak kasar,setengah matang,ajwa
+14,83,kecoklatan,agak kasar,terlalu matang,sukkari
+8,72,kehitaman,agak kasar,terlalu matang,ajwa
+15,75,kecoklatan,agak kasar,terlalu matang,medjool
+10,74,kecoklatan,halus,setengah matang,sukkari
+12,82,kecoklatan,halus,terlalu matang,sukkari
+12,81,kecoklatan,agak kasar,setengah matang,sukkari
+16,87,kecoklatan,kasar,terlalu matang,medjool
+8,65,kehitaman,agak kasar,terlalu matang,ajwa
+14,83,kecoklatan,kasar,terlalu matang,medjool
+16,90,kecoklatan,agak kasar,setengah matang,medjool
+11,65,kehitaman,agak kasar,setengah matang,ajwa
+15,81,kecoklatan,halus,terlalu matang,sukkari
+16,75,kecoklatan,halus,matang,sukkari
+9,64,kehitaman,halus,matang,medjool
+16,89,kecoklatan,agak kasar,terlalu matang,medjool
+10,72,kehitaman,agak kasar,terlalu matang,ajwa
+16,72,kecoklatan,halus,matang,sukkari
+13,81,kecoklatan,halus,terlalu matang,sukkari
+9,73,kehitaman,halus,setengah matang,ajwa
+11,75,kecoklatan,agak kasar,terlalu matang,sukkari
+16,77,kecoklatan,kasar,setengah matang,medjool
+16,79,kecoklatan,kasar,terlalu matang,medjool
+19,80,kecoklatan,agak kasar,setengah matang,medjool
+18,85,kecoklatan,agak kasar,setengah matang,medjool
+20,83,kecoklatan,agak kasar,terlalu matang,medjool
+14,90,kecoklatan,kasar,terlalu matang,medjool
+11,82,kecoklatan,agak kasar,matang,sukkari
+9,74,kehitaman,agak kasar,matang,ajwa
+14,74,kecoklatan,agak kasar,terlalu matang,sukkari
+13,74,kecoklatan,agak kasar,terlalu matang,sukkari
+11,84,kecoklatan,halus,matang,sukkari
+8,61,kehitaman,agak kasar,matang,ajwa
+11,75,kecoklatan,agak kasar,terlalu matang,sukkari
+9,75,kehitaman,agak kasar,matang,ajwa
+10,72,kecoklatan,agak kasar,terlalu matang,sukkari
+9,71,kehitaman,halus,setengah matang,ajwa
+20,90,kecoklatan,kasar,terlalu matang,ajwa
+11,78,kecoklatan,agak kasar,matang,sukkari
+10,76,kecoklatan,agak kasar,terlalu matang,sukkari
+14,84,kecoklatan,agak kasar,terlalu matang,sukkari
+9,63,kehitaman,agak kasar,matang,ajwa
+14,81,kecoklatan,halus,setengah matang,sukkari
+14,71,kecoklatan,halus,setengah matang,sukkari
+16,85,kecoklatan,agak kasar,setengah matang,sukkari
+15,85,kecoklatan,kasar,setengah matang,medjool
+19,84,kecoklatan,kasar,terlalu matang,medjool
+17,84,kecoklatan,kasar,setengah matang,medjool
+14,88,kecoklatan,kasar,terlalu matang,medjool
+14,90,kecoklatan,kasar,terlalu matang,medjool
+18,82,kecoklatan,agak kasar,terlalu matang,medjool
+19,87,kecoklatan,agak kasar,terlalu matang,medjool
+19,78,kecoklatan,agak kasar,setengah matang,medjool
+11,83,kecoklatan,halus,matang,sukkari
+17,76,kecoklatan,agak kasar,terlalu matang,medjool
+15,85,kecoklatan,agak kasar,matang,sukkari
+14,80,kecoklatan,agak kasar,terlalu matang,sukkari
+19,83,kecoklatan,kasar,setengah matang,medjool
+14,79,kecoklatan,halus,matang,sukkari
+15,90,kecoklatan,kasar,matang,medjool
+16,84,kecoklatan,agak kasar,terlalu matang,medjool
+13,81,kecoklatan,halus,matang,medjool
+10,74,kehitaman,agak kasar,terlalu matang,ajwa
+12,68,kehitaman,agak kasar,setengah matang,ajwa
+18,82,kecoklatan,agak kasar,setengah matang,medjool
+15,82,kecoklatan,agak kasar,setengah matang,medjool
+17,78,kecoklatan,agak kasar,setengah matang,medjool
+11,75,kehitaman,agak kasar,terlalu matang,ajwa
+12,79,kecoklatan,halus,setengah matang,sukkari
+12,61,kehitaman,halus,matang,ajwa
+8,72,kehitaman,agak kasar,setengah matang,ajwa
+10,70,kecoklatan,agak kasar,terlalu matang,sukkari
+12,84,kecoklatan,agak kasar,setengah matang,sukkari
+12,76,kecoklatan,halus,matang,sukkari
+15,78,kecoklatan,halus,setengah matang,sukkari
+14,76,kecoklatan,halus,terlalu matang,sukkari
+16,83,kecoklatan,agak kasar,setengah matang,sukkari
+9,64,kehitaman,agak kasar,matang,ajwa
+10,72,kehitaman,halus,matang,ajwa
+12,70,kecoklatan,agak kasar,terlalu matang,sukkari
+8,63,kehitaman,agak kasar,matang,ajwa
+18,84,kecoklatan,agak kasar,terlalu matang,medjool
+12,77,kecoklatan,halus,setengah matang,sukkari
+15,81,kecoklatan,agak kasar,terlalu matang,sukkari
+16,76,kecoklatan,halus,terlalu matang,sukkari
+12,74,kehitaman,agak kasar,setengah matang,ajwa
+8,66,kehitaman,halus,setengah matang,ajwa
+17,78,kecoklatan,agak kasar,terlalu matang,medjool
+12,74,kehitaman,halus,matang,ajwa
+13,71,kecoklatan,agak kasar,terlalu matang,sukkari
+14,87,kecoklatan,kasar,setengah matang,medjool
+14,76,kecoklatan,kasar,matang,medjool
+14,77,kecoklatan,kasar,setengah matang,medjool
+9,73,kehitaman,agak kasar,matang,ajwa
+13,72,kecoklatan,halus,terlalu matang,sukkari
+9,72,kehitaman,halus,terlalu matang,ajwa
+8,69,kehitaman,agak kasar,terlalu matang,ajwa
+14,82,kecoklatan,halus,setengah matang,sukkari
+10,66,kehitaman,halus,setengah matang,ajwa
+14,70,kecoklatan,halus,setengah matang,sukkari
+14,89,kecoklatan,agak kasar,setengah matang,medjool
+13,77,kecoklatan,halus,setengah matang,sukkari
+11,80,kecoklatan,agak kasar,setengah matang,sukkari
+12,67,kehitaman,agak kasar,matang,ajwa
+18,80,kecoklatan,kasar,terlalu matang,medjool
+15,82,kecoklatan,agak kasar,terlalu matang,sukkari
+10,72,kehitaman,halus,terlalu matang,ajwa
+10,64,kehitaman,agak kasar,setengah matang,ajwa
+14,74,kecoklatan,agak kasar,setengah matang,sukkari
+15,72,kecoklatan,agak kasar,matang,sukkari
+20,81,kecoklatan,agak kasar,matang,medjool
+18,76,kecoklatan,agak kasar,setengah matang,medjool
+19,81,kecoklatan,kasar,setengah matang,medjool
+12,70,kecoklatan,halus,setengah matang,sukkari
+11,67,kehitaman,halus,matang,ajwa
+16,84,kecoklatan,kasar,matang,medjool
+12,78,kecoklatan,agak kasar,terlalu matang,sukkari
+10,85,kecoklatan,agak kasar,setengah matang,sukkari
+10,77,kecoklatan,halus,setengah matang,sukkari
+18,88,kecoklatan,kasar,setengah matang,medjool
+11,67,kehitaman,agak kasar,terlalu matang,ajwa
+16,83,kecoklatan,kasar,terlalu matang,medjool
+13,75,kecoklatan,agak kasar,setengah matang,sukkari
+17,80,kecoklatan,agak kasar,terlalu matang,ajwa
+14,75,kecoklatan,kasar,setengah matang,medjool
+8,64,kehitaman,halus,setengah matang,ajwa
+10,85,kecoklatan,agak kasar,setengah matang,medjool
+10,70,kecoklatan,agak kasar,terlalu matang,sukkari
+12,73,kehitaman,halus,setengah matang,ajwa
+15,82,kecoklatan,agak kasar,terlalu matang,medjool
+12,82,kecoklatan,halus,matang,sukkari
+14,77,kecoklatan,halus,matang,sukkari
+8,62,kehitaman,agak kasar,matang,ajwa
+10,70,kecoklatan,halus,setengah matang,sukkari
+15,80,kecoklatan,halus,terlalu matang,sukkari
+9,75,kehitaman,agak kasar,setengah matang,ajwa
+16,76,kecoklatan,agak kasar,matang,ajwa
+15,87,kecoklatan,agak kasar,matang,medjool
+12,72,kehitaman,agak kasar,matang,ajwa
+8,71,kehitaman,halus,setengah matang,ajwa
+10,72,kehitaman,agak kasar,setengah matang,ajwa
+13,77,kecoklatan,agak kasar,terlalu matang,sukkari
+11,82,kecoklatan,halus,terlalu matang,sukkari
+8,62,kehitaman,agak kasar,setengah matang,ajwa
+15,87,kecoklatan,kasar,matang,medjool
+10,74,kehitaman,agak kasar,matang,ajwa
+9,73,kehitaman,agak kasar,terlalu matang,ajwa
+10,70,kecoklatan,halus,matang,sukkari
+18,85,kecoklatan,kasar,setengah matang,medjool
+16,72,kecoklatan,halus,terlalu matang,sukkari
+17,80,kecoklatan,agak kasar,matang,medjool
+11,72,kecoklatan,halus,matang,sukkari
+13,72,kecoklatan,agak kasar,matang,sukkari
+19,90,kecoklatan,agak kasar,matang,medjool
+10,82,kecoklatan,agak kasar,terlalu matang,sukkari
+13,80,kecoklatan,agak kasar,terlalu matang,sukkari
+10,70,kehitaman,halus,matang,ajwa
+12,79,kecoklatan,agak kasar,terlalu matang,sukkari
+13,78,kecoklatan,agak kasar,matang,sukkari
+15,80,kecoklatan,agak kasar,terlalu matang,medjool
+15,89,kecoklatan,kasar,terlalu matang,medjool
+15,85,kecoklatan,halus,terlalu matang,sukkari
+15,74,kecoklatan,agak kasar,matang,sukkari
+17,87,kecoklatan,kasar,terlalu matang,sukkari
+20,77,kecoklatan,agak kasar,setengah matang,medjool
+11,71,kecoklatan,agak kasar,matang,sukkari
+10,70,kecoklatan,halus,matang,sukkari
+18,82,kecoklatan,kasar,matang,medjool
+18,79,kecoklatan,kasar,setengah matang,medjool
+13,72,kecoklatan,halus,terlalu matang,sukkari
+12,84,kecoklatan,halus,terlalu matang,sukkari
+10,84,kecoklatan,agak kasar,matang,sukkari
+8,60,kehitaman,agak kasar,terlalu matang,ajwa
+9,65,kehitaman,halus,matang,ajwa
+11,82,kecoklatan,halus,setengah matang,sukkari
+13,70,kecoklatan,halus,matang,sukkari
+10,76,kecoklatan,halus,matang,sukkari
+12,63,kehitaman,halus,matang,ajwa
+10,78,kecoklatan,agak kasar,terlalu matang,sukkari
+14,82,kecoklatan,agak kasar,terlalu matang,sukkari
+16,84,kecoklatan,halus,terlalu matang,sukkari
+14,72,kecoklatan,halus,matang,sukkari
+10,75,kecoklatan,agak kasar,terlalu matang,sukkari
+13,74,kecoklatan,agak kasar,matang,sukkari
+18,80,kecoklatan,agak kasar,matang,medjool
+10,74,kehitaman,halus,matang,ajwa
+11,76,kecoklatan,agak kasar,terlalu matang,sukkari
+13,85,kecoklatan,agak kasar,terlalu matang,sukkari
+11,72,kecoklatan,halus,setengah matang,sukkari
+11,79,kecoklatan,halus,matang,sukkari
+14,73,kecoklatan,halus,matang,sukkari
+14,71,kecoklatan,agak kasar,terlalu matang,sukkari
+10,77,kecoklatan,agak kasar,setengah matang,sukkari
+16,72,kecoklatan,agak kasar,setengah matang,sukkari
+9,71,kehitaman,agak kasar,setengah matang,ajwa
+9,61,kehitaman,agak kasar,terlalu matang,ajwa
+15,85,kecoklatan,kasar,matang,medjool
+19,78,kecoklatan,agak kasar,matang,medjool
+16,74,kecoklatan,halus,setengah matang,sukkari
+16,77,kecoklatan,agak kasar,matang,sukkari
+16,88,kecoklatan,kasar,matang,medjool
+11,68,kehitaman,agak kasar,matang,ajwa
+14,70,kecoklatan,halus,terlalu matang,sukkari
